@@ -205,6 +205,6 @@
     <bool name="config_ui_enableFadingMarquee">false</bool>
 
     <!-- enable wifi-display, like miracast -->
-    <bool name="config_enableWifiDisplay">false</bool>
+    <bool name="config_enableWifiDisplay">true</bool>
 
 </resources>
