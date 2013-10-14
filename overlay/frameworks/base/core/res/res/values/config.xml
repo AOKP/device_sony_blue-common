@@ -193,6 +193,11 @@
 
     <bool name="config_enableWifiDisplay">true</bool>
 
+    <!-- Should "4G" be shown instead of "LTE" when the network is
+               NETWORK_TYPE_LTE? -->
+    <bool name="config_show4GForLTE">false</bool>
+
+
     <!-- Is the notification LED intrusive? Used to decide if there should be a disable option -->
     <bool name="config_intrusiveNotificationLed">true</bool>
 
